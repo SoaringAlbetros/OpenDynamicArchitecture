@@ -14,22 +14,38 @@ Project Structure
 Below is a tentative structure of directories and files to organize the repository and facilitate the collaborative building of this body of knowledge.
 
 /Open-Dynamic-Architecture
+
+
     /Chapter01-Introduction
         introduction.md
+
+
     /Chapter02-Literature-Review
         dynamic-capabilities-review.md
         ...
+
+
     /Chapter03-Case-Studies
         ...
+
+
     /Chapter04-Frameworks-and-Models
         ...
+
+
     /Chapter05-Best-Practices
         ...
+        
     /Chapter06-Future-Directions
         ...
+        
     /community
         CONTRIBUTING.md
         CODE_OF_CONDUCT.md
+        
     README.md
+    
     LICENSE
+
+
 
