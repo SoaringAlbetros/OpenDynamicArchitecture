@@ -18,4 +18,4 @@ Moreover, this project is a clarion call to bridge the existing gap in the liter
 
 The ensuing chapters will delve deeper into the academic underpinnings of Dynamic Capabilities, explore real-world case studies exemplifying these concepts, propose frameworks and models for practical application, and discuss the future trajectory of Dynamic Capabilities in light of emerging business and organisational paradigms.
 
-Open Dynamic Architecture transcends the traditional boundaries of a project; it epitomises a movement towards fostering a deeper understanding and practical application of Dynamic Capabilities. By harmonising these capabilities with business architecture principles, it endeavours to equip organisations with the requisite money to thrive in the modern business epoch.
+Open Dynamic Architecture transcends the traditional boundaries of a project; it epitomises a movement towards fostering a deeper understanding and practical application of Dynamic Capabilities. By harmonising these capabilities with business architecture principles, it endeavours to equip organisations with the requisite insight to thrive in the modern business epoch.
